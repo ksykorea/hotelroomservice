@@ -1,0 +1,11 @@
+hotelroomservice\RoomserviceApplication.class
+hotelroomservice\RoomServiceController.class
+hotelroomservice\RoomServiceRepository.class
+hotelroomservice\ServiceCanceled.class
+hotelroomservice\Ordered.class
+hotelroomservice\AbstractEvent.class
+hotelroomservice\ServiceProvided.class
+hotelroomservice\config\kafka\KafkaProcessor.class
+hotelroomservice\AbstractEvent$1.class
+hotelroomservice\PolicyHandler.class
+hotelroomservice\RoomService.class
